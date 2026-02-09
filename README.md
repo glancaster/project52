@@ -14,7 +14,7 @@ Always looking to improve my software skills and knowledge. Also, I saw several 
 - Should be useful or functional that I would use it after its finished.
 
 ## Progress 
-Coming Soon
+1. Number Guessing CLI Game - https://github.com/glancaster/guess
 
 ## Contributing 
 If you have a great idea that you think I should try, please create an `issue`. If you want to follow along, `star` this repo.
