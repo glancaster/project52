@@ -15,6 +15,7 @@ Always looking to improve my software skills and knowledge. Also, I saw several 
 
 ## Progress 
 1. Number Guessing CLI Game - https://github.com/glancaster/guess
+2. GUI Unit Converter - https://github.com/glancaster/convert
 
 ## Contributing 
 If you have a great idea that you think I should try, please create an `issue`. If you want to follow along, `star` this repo.
